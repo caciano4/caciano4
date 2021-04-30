@@ -112,5 +112,5 @@ Com o focor no auto-desenvolvimento🏆. Adoro explorar novas tecnologias e apro
 
 <hr />
 
-## Mostre Que ❤️ Marcando Algum Repositorios, Obrigado!
+## Mostre Que ❤️ Dando Um Follow e Marcando Algum Repositorios, Obrigado🙏🏾!
 
