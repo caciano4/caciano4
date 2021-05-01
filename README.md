@@ -1,6 +1,6 @@
 <span align="center">
 
-# 👋🏽 Olá sejam bem-vindos(a)!
+# <img width="150px" src="https://media.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif"> Olá! sejam bem-vindos(a)!
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](caciano4@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walter-caciano-090a17140/)
@@ -24,7 +24,7 @@ Sou Walter Caciano,<strong>Tecnologista e autodidata🤗.</strong> <br />
 <strong>Desenvolvedor de Software</strong>,Tenho uma atração pelo <strong> Desenvolvimento WEB 🖥</strong><br />
 Porem Tenho muito Interesse em Aprender <strong> Desenvolvimento Mobile📱</strong>.<br />
 Aberto para conhecer novas pessoas e culturas, ganhar novas Habilidades para crescimento pessoal/profissional <br />
-Com o focor no auto-desenvolvimento🏆. Adoro explorar novas tecnologias e aproveitá-las para resolver problemas da vida real ✨.
+Com o foco no auto-desenvolvimento🏆. Adoro explorar novas tecnologias e aproveitá-las para resolver problemas da vida real ✨.
 
 </p>
 
@@ -112,5 +112,5 @@ Com o focor no auto-desenvolvimento🏆. Adoro explorar novas tecnologias e apro
 
 <hr />
 
-## Mostre Que ❤️ Dando Um Follow e <br />Marcando Algum Repositorios, Obrigado🙏🏾!
+## Mostre Que ❤️ Dando Um Follow e <br />Marcando Alguns Repositorios, Obrigado🙏🏾!
 
