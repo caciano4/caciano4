@@ -1,6 +1,6 @@
 <span align="center">
 
-# <img width="150px" src="https://media.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif"> Olá! sejam bem-vindos(a)!
+# 👋🏽  Olá! sejam bem-vindos(a)!
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](caciano4@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walter-caciano-090a17140/)
