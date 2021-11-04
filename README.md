@@ -43,7 +43,7 @@ Com o foco no auto-desenvolvimento🏆. Adoro explorar novas tecnologias e aprov
 
 <br />
 
-## Tecnologias do meu cotidiano:
+<!-- ## Tecnologias do meu cotidiano:
 
 <br />
 
@@ -54,7 +54,7 @@ Com o foco no auto-desenvolvimento🏆. Adoro explorar novas tecnologias e aprov
 - <img height="40" src="https://img.icons8.com/color/48/000000/angularjs.png"/> &nbsp; Angular.
 - <img height="40" src="https://img.icons8.com/dusk/64/000000/php-logo.png"/> &nbsp; PHP.
 
-<br />
+<br /> -->
 
 ## Meus Favoritos:
 
