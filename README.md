@@ -43,7 +43,7 @@ Com o foco no auto-desenvolvimento🏆. Adoro explorar novas tecnologias e aprov
 
 <br />
 
-## O que estou Aprendendo:
+## Tecnologias do meu cotidiano:
 
 <br />
 
