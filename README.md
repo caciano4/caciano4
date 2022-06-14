@@ -1,6 +1,6 @@
 <span align="center">
 
-# 👋🏽  Olá! sejam bem-vindos(a)!
+# 👋🏽  Hi! welcome!
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](caciano4@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walter-caciano-090a17140/)
@@ -8,7 +8,7 @@
 [![FaceBook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/walter.caciano)
 </span>
 
-## Feliz Por ver Você Aqui!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=caciano4)
+## Happy To See You Here!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=caciano4)
 
 <div align="center">
 
@@ -20,11 +20,10 @@
 
 <p align="center">
 
-Sou Walter Caciano,<strong>Tecnologista e autodidata🤗.</strong> <br />
-<strong>Desenvolvedor de Software</strong>,Tenho uma atração pelo <strong> Desenvolvimento WEB 🖥</strong><br />
-Porem Tenho muito Interesse em Aprender <strong> Desenvolvimento Mobile📱</strong>.<br />
-Aberto para conhecer novas pessoas e culturas, ganhar novas Habilidades para crescimento pessoal/profissional <br />
-Com o foco no auto-desenvolvimento🏆. Adoro explorar novas tecnologias e aproveitá-las para resolver problemas da vida real ✨.
+I'm Walter Caciano,<strong>Technologist and Self-taught🤗.</strong> <br />
+<strong>Software Engineer</strong>,I have an attraction for <strong> WEB Development,</strong><br />
+Open to meet new people and cultures, gain new Skills for personal/professional growth <br />
+With a focus on self-development🏆. I love exploring new technologies and leveraging them to solve real-life problems✨.
 
 </p>
 
@@ -32,18 +31,18 @@ Com o foco no auto-desenvolvimento🏆. Adoro explorar novas tecnologias e aprov
 
 <span align="left">
 
-## Sobre Minhas Stuffs:
+## About My Stuffs:
 
 <br />
 
-- 🛠 &nbsp; Estou Trabalhando atualmente com VueJS, React, Node, Mysql, Javascript.<br />
-- 👦🏽‍💻 &nbsp; Meus Canais de Aprendizagem RocketSeat, Udemy, B7WEB, Origamid.<br/>
-- 💬 💌 &nbsp; Me Pergunte Algo [here](https://github.com/caciano4/Bem-Vindo/issues/1)! Estou Feliz Por Ajudar😃.<br/>
+- 🛠 &nbsp; I am currently working with VueJS, React, Node, Mysql, Javascript.<br />
+- 👦🏽‍💻 &nbsp; My Learning Channels RocketSeat, Udemy, B7WEB, Origamid.<br/>
+- 💬 💌 &nbsp; Ask me something [here](https://github.com/caciano4/Bem-Vindo/issues/1)! I'm Happy to Help😃.<br/>
 - 📫 &nbsp; Contate-me: caciano4@gmail.com
 
 <br />
 
-<!-- ## Tecnologias do meu cotidiano:
+<!-- ## Technologies of my everyday:
 
 <br />
 
@@ -56,19 +55,19 @@ Com o foco no auto-desenvolvimento🏆. Adoro explorar novas tecnologias e aprov
 
 <br /> -->
 
-## Meus Favoritos:
+## My favorites:
 
 <br />
 
-- 💻 &nbsp; Participar de Novos Desafios.<br />
-- 📰 &nbsp; Ler e descobrir Novas Tecnologias.<br />
-- 🛩 &nbsp; Viajar e Conhecer Novos Lugares.<br />
+- 💻 &nbsp; Participate in New Challenges.<br />
+- 📰 &nbsp; Read and discover New Technologies.<br />
+- 🛩 &nbsp; Traveling and Discovering New Places.<br />
 
 </span>
 
 <br />
 
-## Linguagens e Ferramentas:
+## Languages and Tools:
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
@@ -90,18 +89,18 @@ Com o foco no auto-desenvolvimento🏆. Adoro explorar novas tecnologias e aprov
 
 <details>	
   <br />
-  <summary><b>⚙️ Equipamento De Trabalho</b></summary>
+  <summary><b>⚙️ Work Equipment</b></summary>
   	<ul>
-  	    <li><b>OS:</b> High Sierra</li>
-	    <li><b>Laptop: </b> Macbook (i7)</li>
+  	    <li><b>Linux - Manjaro:</b> High Sierra</li>
+	    <li><b>Desktop: </b> Intel Xeon E31280 (8) @ 3.900GHz (i7)</li>
   	    <li><b>Browser: </b> Web Browser Chrome</li>
-	    <li><b>Editor de Codigos:</b> WebStorm - Muito Eficaz.</li>
+	    <li><b>Code Editor:</b> WebStorm - VScode - very effective.</li>
 	</ul>	
 </details>
 
 <details>
   <br />
-    <summary><strong>🌟 Status do Perfil</strong></summary>
+    <summary><strong>🌟 Profile Status</strong></summary>
     <ul>
         <li> <img width="400" src="https://github-readme-stats.vercel.app/api?username=caciano4&show_icons=true&theme=tokyonight&line_height=27" alt="ProfileStatus"></li>
         <li> <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caciano4&hide=css,java,html&theme=tokyonight" alt="LanguageStatus"> </li>
@@ -112,5 +111,5 @@ Com o foco no auto-desenvolvimento🏆. Adoro explorar novas tecnologias e aprov
 
 <hr />
 
-## Mostre Que ❤️ Dando Um Follow e <br />Marcando Alguns Repositorios, Obrigado🙏🏾!
+## show that ❤️ giving a follow and <br /> Tagging Some Repositories, Thanks🙏🏾!
 
