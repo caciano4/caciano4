@@ -16,7 +16,7 @@
 
 </div>
 
-### Sobre Mim!
+### About me!
 
 <p align="center">
 
