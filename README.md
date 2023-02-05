@@ -5,7 +5,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](caciano4@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walter-caciano-090a17140/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cacianowalter/)
-[![FaceBook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/walter.caciano)
+[![FaceBook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/walter.caciano)<br />
+[![codeWars](https://www.codewars.com/users/caciano4/badges/large)](https://www.codewars.com/users/caciano4)
 </span>
 
 ## Happy To See You Here!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=caciano4)
